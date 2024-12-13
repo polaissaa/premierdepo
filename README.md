@@ -1,3 +1,3 @@
 # premierdepo
 
-ce projet es une introduction de git et github.
+ce projet est une introduction de git et github.
